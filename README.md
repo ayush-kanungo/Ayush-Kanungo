@@ -1,5 +1,6 @@
 ## Hi there 👋
 Author:Ayush Kanungo
+this is my first Git repository
 <!--
 **ayush-kanungo/Ayush-Kanungo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
